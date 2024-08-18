@@ -16,7 +16,7 @@
 
 The adaptability of machine vision solutions for motion capture has generated an interest in determining whether markerless capture methods can achieve a level of accuracy particularly similar to capture techniques with passive or active markers, being an essential factor in the identification and treatment of motor weaknesses in physiotherapeutic fields. In this sense, the aim of this work is to perform a comparison of two motion capture techniques: intrusive and non-intrusive, using the **3D tracking systems OptiTrack and MediaPipe** to determine the performance of markerless pose estimation in obtaining the ranges of motion of the upper body of a person.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/OptiTrack_MediaPipe.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
