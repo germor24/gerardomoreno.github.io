@@ -1,5 +1,4 @@
-# gerardomoreno.github.io
-# Data Scientist
+# Research of Computer Science & Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
