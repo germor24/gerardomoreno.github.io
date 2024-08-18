@@ -11,10 +11,10 @@
 - Application of concepts and methodologies for executing service migrations within the Databricks platform.
 
 ## Projects
-### Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis (#745)
+### Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis
 [Publication](https://laccei.org/LACCEI2023-BuenosAires/meta/FP745.html)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The adaptability of machine vision solutions for motion capture has generated an interest in determining whether markerless capture methods can achieve a level of accuracy particularly similar to capture techniques with passive or active markers, being an essential factor in the identification and treatment of motor weaknesses in physiotherapeutic fields. In this sense, the aim of this work is to perform a comparison of two motion capture techniques: intrusive and non-intrusive, using the **3D tracking systems OptiTrack and MediaPipe** to determine the performance of markerless pose estimation in obtaining the ranges of motion of the upper body of a person.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
