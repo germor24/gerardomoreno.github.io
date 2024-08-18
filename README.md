@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Databricks, Unity, MATLAB
 
 ## Education 			        		
-- B.S., Computer engineering | Technological University of Panama (_June 2024_)
+- B.S., Computer engineering            | Technological University of Panama (_June 2024_)
 
 ## Work Experience
 **Data Engineer @ Copa Airlines (_July 2023 - Present_)**
