@@ -1,4 +1,4 @@
-# Researcher in Computer Science and Engineering
+# Researcher in Artificial intelligence and Motion Capture
 
 #### Technical Skills: Python, SQL, Databricks, Unity, MATLAB
 
