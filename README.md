@@ -18,12 +18,12 @@ The adaptability of machine vision solutions for motion capture has generated an
 
 ![EEG Band Discovery](/assets/img/OptiTrack_MediaPipe.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Nonintrusive virtual trainer prototype for exercise routines in unity using motion capture
+[Publication](https://ojs.urepublicana.edu.co/index.php/ingenieria/article/view/875)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Virtuality is an innovative process seen in recent years. This process allows transforming scenarios to a virtual environment for simulations, practices, or tests so that all results can be studied. In turn, these environments can be supported by new tools and methodologies that increase the analysis capabilities, such as motion capture to generate animations, tracking of robotic equipment and the study of human movement, which benefits the development of systems with these objectives. A prototype of a nonintrusive virtual trainer capable of capturing motion and determining the correct execution of exercise routines is presented, using a virtual environment developed in the Unity video game engine. The system employs a SHDR webcam for real-time capture of the movement performed by the user, which is processed to track the pose and joints using Machine Learning through the MediaPipe library. This article explains the construction of the prototype and presents the results of the project.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/exercise_mediapipe.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
