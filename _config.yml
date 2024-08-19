@@ -1,5 +1,6 @@
 title: "Gerardo Moreno Urriola"
 theme: jekyll-theme-minimal
 
-  social_links:
-    - { platform: devto,          user_url: "https://dev.to/jekyll" }
+social_links:
+  - platform: devto
+    user_url: "https://dev.to/jekyll"
