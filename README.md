@@ -31,8 +31,11 @@ Virtuality is an innovative process seen in recent years. This process allows tr
 3. C. Pinzon, G. Moreno & M. Bonilla. Nonintrusive virtual trainer prototype for exercise routines in unity using motion capture. 2023. Revista Ingeniería, Matemáticas y Ciencias de la Información. doi: 10. 13-20. 10.21017/rimci.2023.v10.n19.a125.
 4. G. Moreno, D. D. Togna, C. Gonzales and C. P. Trejos, Low-cost exoskeleton prototype to support people with monoplegia problems in the upper limbs. 2023. VI Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC), Cali, Colombia, 2023, pp. 1-5, doi: 10.1109/AmITIC60194.2023.10366352. 
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
+## International research experience
+# Research Internship at the Universidad Politécnica de Madrid, Spain. 2022.
+- Research stay at the Centre For Automation and Robotics (UPM - CSIC) in the Polytechnic University of Madrid, Spain focused on the development of projects with virtual environments, motion capture, simulation and robotics.
+- Participation in the Open Doors Session of the Escuela Técnica Superior de Ingenieros Industriales - "Presentation of the LuxBit exoskeleton during a research stay at the Polytechnic University of Madrid, CAR".
+
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
 - A Brief Introduction to Optimization - GSP Seminar, Fall 2019
