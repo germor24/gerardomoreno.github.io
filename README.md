@@ -43,3 +43,5 @@ Virtuality is an innovative process seen in recent years. This process allows tr
 - Inspection of components and microcontrollers integrated to robotic equipment.
 
 ![Germany experience](/assets/img/wro_robotics.jpg)
+
+- [Google Scholar](https://scholar.google.es/citations?user=jS8lVAYAAAAJ&hl=en)
