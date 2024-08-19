@@ -1,10 +1,2 @@
-title: Gerardo Moreno Urriola
-logo: /assets/img/profile_photo.png
-description: Research student of the Robotics, Intelligent Systems and Simulation group, UTP.
-show_downloads: false
+title: "Gerardo Moreno Urriola"
 theme: jekyll-theme-minimal
-
- # Generate social links in footer.
- plugins:
-  - jekyll-feed
-
