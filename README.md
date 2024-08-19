@@ -26,13 +26,13 @@ Virtuality is an innovative process seen in recent years. This process allows tr
 ![Mocap Virtual Trainer](/assets/img/exercise_mediapipe.png)
 
 ## Publications
-1. G. Moreno Urriola, C. Pinzon, and M. Ferre, Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis. 2023. Congreso 21st LACCEI. [doi](10.18687/LACCEI2023.1.1.745.)
+1. G. Moreno Urriola, C. Pinzon, and M. Ferre, Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis. 2023. Congreso 21st LACCEI. [doi](http://dx.doi.org/10.18687/LACCEI2023.1.1.745.)
 2. G. Moreno Urriola, C. Pinzon, and M. Ferre, Data simulation of an exoskeleton in upper limb rehabilitation tasks. 2023. Prisma Tecnológico. 14. 87-93. doi: 10.33412/pri.v14.1.3544.
 3. C. Pinzon, G. Moreno & M. Bonilla. Nonintrusive virtual trainer prototype for exercise routines in unity using motion capture. 2023. Revista Ingeniería, Matemáticas y Ciencias de la Información. doi: 10. 13-20. 10.21017/rimci.2023.v10.n19.a125.
 4. G. Moreno, D. D. Togna, C. Gonzales and C. P. Trejos, Low-cost exoskeleton prototype to support people with monoplegia problems in the upper limbs. 2023. VI Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC), Cali, Colombia, 2023, pp. 1-5, doi: 10.1109/AmITIC60194.2023.10366352. 
 
 ## International research experience
-# Research Internship at the Universidad Politécnica de Madrid, Spain. 2022.
+### Research Internship at the Universidad Politécnica de Madrid, Spain. 2022.
 - Research stay at the Centre For Automation and Robotics (UPM - CSIC) in the Polytechnic University of Madrid, Spain focused on the development of projects with virtual environments, motion capture, simulation and robotics.
 - Participation in the Open Doors Session of the Escuela Técnica Superior de Ingenieros Industriales - "Presentation of the LuxBit exoskeleton during a research stay at the Polytechnic University of Madrid, CAR".
 
