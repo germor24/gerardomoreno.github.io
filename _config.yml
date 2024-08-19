@@ -3,6 +3,7 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
-
+  
 social_links:
-  - platform: facebook user_url: "https://www.facebook.com/jekyll"
+  - platform: devto
+    user_url: "https://dev.to/jekyll"
