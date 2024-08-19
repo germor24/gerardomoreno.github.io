@@ -11,14 +11,14 @@
 - Application of concepts and methodologies for executing service migrations within the Databricks platform.
 
 ## Projects
-### Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis
+### Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis.
 [Publication](https://laccei.org/LACCEI2023-BuenosAires/meta/FP745.html)
 
 The adaptability of machine vision solutions for motion capture has generated an interest in determining whether markerless capture methods can achieve a level of accuracy particularly similar to capture techniques with passive or active markers, being an essential factor in the identification and treatment of motor weaknesses in physiotherapeutic fields. In this sense, the aim of this work is to perform a comparison of two motion capture techniques: intrusive and non-intrusive, using the **3D tracking systems OptiTrack and MediaPipe** to determine the performance of markerless pose estimation in obtaining the ranges of motion of the upper body of a person.
 
 ![OptiTrack Mediapipe Comparison](/assets/img/OptiTrack_MediaPipe.png)
 
-### Nonintrusive virtual trainer prototype for exercise routines in unity using motion capture
+### Nonintrusive virtual trainer prototype for exercise routines in unity using motion capture.
 [Publication](https://ojs.urepublicana.edu.co/index.php/ingenieria/article/view/875)
 
 Virtuality is an innovative process seen in recent years. This process allows transforming scenarios to a virtual environment for simulations, practices, or tests so that all results can be studied. In turn, these environments can be supported by new tools and methodologies that increase the analysis capabilities, such as motion capture to generate animations, tracking of robotic equipment and the study of human movement, which benefits the development of systems with these objectives. A prototype of a nonintrusive virtual trainer capable of capturing motion and determining the correct execution of exercise routines is presented, using a **virtual environment developed in the Unity video game engine**. The system employs a SHDR webcam for real-time capture of the movement performed by the user, which is processed to track the pose and joints using Machine Learning through the MediaPipe library. This article explains the construction of the prototype and presents the results of the project.
@@ -35,9 +35,11 @@ Virtuality is an innovative process seen in recent years. This process allows tr
 ### Research Internship at the Polytechnic University of Madrid, Spain. 2022.
 - Research stay at the Centre For Automation and Robotics (UPM - CSIC) in the Polytechnic University of Madrid, Spain focused on the development of projects with virtual environments, motion capture, simulation and robotics.
 - Participation in the Open Doors Session of the Escuela Técnica Superior de Ingenieros Industriales - "Presentation of the LuxBit exoskeleton during a research stay at the Polytechnic University of Madrid, CAR".
+
 ![Madrid experience](/assets/img/luxbit_manuel.jpg)
 
 ### International Judge at the World Robotics Olympics (WRO) Dortmund, Germany. 2022.
 - Evaluator of the Future Innovators Elementary category with studies focused on programming applied to real environments.
 - Inspection of components and microcontrollers integrated to robotic equipment.
+
 ![Germany experience](/assets/img/wro_robotics.jpg)
