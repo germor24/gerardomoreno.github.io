@@ -4,3 +4,11 @@ description: Research student of the Robotics, Intelligent Systems and Simulatio
 email: your-email@domain.com
 show_downloads: false
 theme: jekyll-theme-minimal
+
+social_links:
+  - title: GitHub
+    url: https://github.com/yourusername
+    icon: /assets/icons/github-icon.png
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yourprofile
+    icon: /assets/icons/linkedin-icon.png
