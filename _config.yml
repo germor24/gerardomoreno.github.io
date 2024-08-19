@@ -5,5 +5,7 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
  # Generate social links in footer.
+ plugins:
+  - jekyll-feed
   social_links:
     - { platform: devto,          user_url: "https://dev.to/jekyll" }
