@@ -32,14 +32,12 @@ Virtuality is an innovative process seen in recent years. This process allows tr
 4. G. Moreno, D. D. Togna, C. Gonzales and C. P. Trejos, Low-cost exoskeleton prototype to support people with monoplegia problems in the upper limbs. 2023. VI Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC), Cali, Colombia, 2023, pp. 1-5. [doi](https://doi.org/10.1109/AmITIC60194.2023.10366352).
 
 ## International research experience
-### Research Internship at the Universidad Politécnica de Madrid, Spain. 2022.
+### Research Internship at the Polytechnic University of Madrid, Spain. 2022.
 - Research stay at the Centre For Automation and Robotics (UPM - CSIC) in the Polytechnic University of Madrid, Spain focused on the development of projects with virtual environments, motion capture, simulation and robotics.
 - Participation in the Open Doors Session of the Escuela Técnica Superior de Ingenieros Industriales - "Presentation of the LuxBit exoskeleton during a research stay at the Polytechnic University of Madrid, CAR".
+![Madrid experience](/assets/img/luxbit_manuel.jpg)
 
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### International Judge at the World Robotics Olympics (WRO) Dortmund, Germany. 2022.
+- Evaluator of the Future Innovators Elementary category with studies focused on programming applied to real environments.
+- Inspection of components and microcontrollers integrated to robotic equipment.
+![Germany experience](/assets/img/wro_robotics.jpg)
