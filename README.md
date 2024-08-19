@@ -44,4 +44,4 @@ Virtuality is an innovative process seen in recent years. This process allows tr
 
 ![Germany experience](/assets/img/wro_robotics.jpg)
 
-- [Google Scholar](https://scholar.google.es/citations?user=jS8lVAYAAAAJ&hl=en)
+- [Google Scholar Profile](https://scholar.google.es/citations?user=jS8lVAYAAAAJ&hl=en)
